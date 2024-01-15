@@ -1,36 +1,24 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+## 🚀 🚀  Apresentação de Andressa: Navegadora do Mundo Digital
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de um texto para apresentção pessoal com linguagem natural.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Estudio de Realidade Criativa D-ID. A interface que humaniza as interações com tudo digital.
+Texto com linguagem natural chat openai.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Olá, pessoal! 👋 Sou Andressa, uma entusiasta incansável do universo digital, com 38 primaveras bem vividas aqui na vibrante São Paulo. Atualmente, estou desbravando os caminhos do conhecimento no último semestre do curso de Análise e Desenvolvimento de Sistemas, construindo pontes entre linhas de código e o futuro da tecnologia.
 
-### Exemplos e Insigths
+Como uma exploradora apaixonada pelo mundo digital, sou a feliz tripulante da nave Avanade, onde cada dia é uma nova oportunidade para inovar e crescer. Afinal, a tecnologia é meu terreno de jogo, e eu a encaro com a curiosidade de quem desvenda segredos e cria soluções.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Meu avatar é uma representação simbólica dessa jornada, um reflexo da minha paixão por códigos, algoritmos e pela beleza intrínseca da criação digital. Com olhos curiosos e sorriso otimista, estou sempre pronta para enfrentar os desafios e abraçar as novas descobertas que a tecnologia nos reserva.
 
-## Links Interessantes
+Quando não estou imersa no mundo dos bytes e bits, gosto de explorar os cantos fascinantes da minha cidade, seja nos cafés acolhedores ou nos parques que respiram história. Sou uma observadora atenta da vida, sempre em busca de inspiração para alimentar minha criatividade.
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+Junte-se a mim nessa viagem pelos corredores da tecnologia, onde cada código é uma linha escrita no livro do futuro. Vamos construir juntos, aprender juntos e, acima de tudo, celebrar essa incrível jornada que é a vida digital. 🚀✨
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
