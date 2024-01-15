@@ -22,3 +22,7 @@ Quando não estou imersa no mundo dos bytes e bits, gosto de explorar os cantos 
 
 Junte-se a mim nessa viagem pelos corredores da tecnologia, onde cada código é uma linha escrita no livro do futuro. Vamos construir juntos, aprender juntos e, acima de tudo, celebrar essa incrível jornada que é a vida digital. 🚀✨
 
+
+https://github.com/AndressaHelena/lab-natty-or-not/assets/94869300/6180619c-9b45-45a7-abbb-e79357afedad
+
+
